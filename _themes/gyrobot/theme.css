@@ -1,0 +1,10 @@
+.mstheme     { navbutton-background-color: rgb(255,255,255); top-bar-button: url(urbglob.gif); 
+               version: 1.0 }
+.mstheme-topbar-font { color: rgb(0,0,0); font-family: Arial, Helvetica }
+body         { background-image: url('cartoon-small.jpg'); font-family: Arial, Helvetica }
+h1           { font-family: 'Trebuchet MS', Arial, Helvetica }
+h2           { font-family: 'Trebuchet MS', Arial, Helvetica }
+h3           { font-family: 'Trebuchet MS', Arial, Helvetica }
+h4           { font-family: 'Trebuchet MS', Arial, Helvetica }
+h5           { font-family: 'Trebuchet MS', Arial, Helvetica }
+h6           { font-family: 'Trebuchet MS', Arial, Helvetica }

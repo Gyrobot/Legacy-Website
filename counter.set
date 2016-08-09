@@ -1,0 +1,18 @@
+# This will create a frame 0 pixel thick around the digits 
+frame_width=3
+# This will make the colour of the frame white
+frame_color=255,255,254
+# Other values to try:
+# frame_color=255,255,255     - that's white
+# frame_color=255,0,0        - that's red
+# frame_color=0,255,0        - that's green
+# frame_color=0,0,255        - and that's blue - do you see a pattern?
+# This will make any white pixel in the GIF turn transparent
+transparent_color=255,255,254
+# This will turn GIF interlacing on 
+# image_interlaced=1
+# Size of the individual digits 
+width=34
+height=34
+# Directory name of digit gifs
+digit_dir=docs/digits
